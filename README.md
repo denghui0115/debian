@@ -1,2 +1,2 @@
 # debian
-debian:jessie
+debian:jessie-tz.8
